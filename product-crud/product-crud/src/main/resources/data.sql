@@ -1,0 +1,54 @@
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Laptop', 55000, 5);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Mobile', 25000, 10);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Keyboard', 1500, 20);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Mouse', 800, 25);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Monitor', 12000, 8);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Tablet', 18000, 6);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Charger', 500, 30);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('USB Cable', 200, 50);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Headphones', 2000, 15);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Bluetooth Speaker', 3000, 12);
+
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Smart Watch', 5000, 10);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Webcam', 2500, 7);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Microphone', 3500, 6);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Gaming Chair', 15000, 4);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Desk Lamp', 1200, 14);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Router', 2200, 9);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('External HDD', 6000, 5);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('SSD', 7000, 8);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Pendrive', 700, 40);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Power Bank', 1500, 18);
+
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Printer', 8000, 3);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Scanner', 6500, 2);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Projector', 25000, 2);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Smart TV', 45000, 3);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Gaming Console', 40000, 2);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('VR Headset', 30000, 1);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Cooling Pad', 1200, 10);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Graphic Card', 60000, 2);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('RAM 8GB', 3000, 20);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('RAM 16GB', 6000, 15);
+
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Motherboard', 10000, 5);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Processor i5', 20000, 4);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Processor i7', 35000, 3);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Cabinet', 4000, 6);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('SMPS', 3000, 7);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('UPS', 5000, 5);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Fan', 2000, 12);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('AC', 35000, 3);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Heater', 2500, 8);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Air Purifier', 12000, 4);
+
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Camera', 50000, 2);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Tripod', 3000, 6);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Drone', 80000, 1);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Smart Bulb', 900, 20);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Extension Board', 700, 25);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Door Lock Smart', 10000, 3);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Water Purifier', 15000, 4);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Mixer Grinder', 5000, 6);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Induction Stove', 3000, 7);
+INSERT INTO PRODUCT (name, price, quantity) VALUES ('Electric Kettle', 1200, 10);
