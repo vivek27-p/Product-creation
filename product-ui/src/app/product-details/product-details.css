@@ -1,0 +1,41 @@
+.product-details-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.loading, .error {
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.loading {
+  background-color: #e3f2fd;
+  color: #1565c0;
+}
+
+.error {
+  background-color: #ffebee;
+  color: #c62828;
+}
+
+.product-info {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1565c0;
+}
